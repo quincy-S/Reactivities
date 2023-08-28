@@ -1,0 +1,4 @@
+GET http://localhost:5000/api/activities
+
+###
+GET http://localhost:5000/api/activities/24f1d20d-5829-4cb1-930e-b931150ae134
